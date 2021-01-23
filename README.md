@@ -14,7 +14,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/.git
+git clone https://github.com/LaNa-GyAn/XAR.git
 
 cd XAR
 
