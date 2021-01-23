@@ -14,7 +14,7 @@ Facebook Friendlist Multibruteforce
 
 - pip2 install mechanize
 
-- git clone https://github.com/LaNa-GyAn/XAR.git
+- git clone https://github.com/NS-XAR/XAR.git
 
 - cd XAR
 
